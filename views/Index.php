@@ -1,0 +1,1 @@
+<h1>Welcome! to Simple MVC in PHP.</h1>
